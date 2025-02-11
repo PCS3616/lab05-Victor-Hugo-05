@@ -19,9 +19,9 @@ JP   /012
 RS   /010
 
 @    =100
-N    K=4
-RES  K=0
-UM   K=1
+N    K =4
+RES  K =0
+UM   K =1
 
 @    =200
 LV   /001
