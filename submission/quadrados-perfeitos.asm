@@ -13,7 +13,7 @@ START   LD SOMA
 	AD UM
 	MM NUM
 	LD /002
-	AD POS
+	AD DOIS
 	MM /002
 	LD POS
 	SB LIM
@@ -28,4 +28,4 @@ DOIS   K =2
 SOMA   K =1
 NUM    K =1
 LIM    K =124
-POS    K =0; coloquei so pra refazer o workflow
+POS    K =0
