@@ -11,7 +11,7 @@ VAL    K =1
 
 @ /200
        K =4
-       JZ /216
+       JZ /210
        ML RES
        MM RES
        LD N
