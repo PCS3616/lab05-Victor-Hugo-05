@@ -1,6 +1,6 @@
 @ /000              
 START   LD N
-	JZ /400
+	jz /400
 	SC /200   
         HM =0             
 
