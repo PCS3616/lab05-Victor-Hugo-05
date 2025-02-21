@@ -1,7 +1,7 @@
 @ /000              
 START   LD N
-        JZ 400
-        SC 200   
+        JZ /400
+        SC /200   
         HM =0             
 
 @ /100 
@@ -11,13 +11,13 @@ VAL    K =1
 
 @ /200
        K =0
-       JZ 214
+       JZ /214
        ML RES
        MM RES
        LD N
        SB VAL
        MM N
-       RS 200
+       RS /200
 
 @ /400
 	LV 0001
