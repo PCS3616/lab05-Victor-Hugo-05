@@ -10,7 +10,7 @@ RES    K /0001
 VAL    K =1
 
 @ /200
-       K =0
+       K =4
        JZ /216
        ML RES
        MM RES
