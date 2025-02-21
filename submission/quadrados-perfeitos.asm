@@ -28,4 +28,4 @@ DOIS   K =2
 SOMA   K =1
 NUM    K =1
 LIM    K =124
-POS    K =0
+POS    K =0; coloquei so pra refazer o workflow
