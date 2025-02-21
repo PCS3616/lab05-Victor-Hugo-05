@@ -27,5 +27,5 @@ UM     K =1
 DOIS   K =2
 SOMA   K =1
 NUM    K =1
-LIM    K =124
+LIM    K =126
 POS    K =0
