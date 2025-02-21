@@ -49,5 +49,5 @@ DOIS    K =2
 QUATRO  K =4
 DEZ     K =10
 DOZE    K =12
-TM      K = 3030
+TM      K =3030
 VAI     K /0100
