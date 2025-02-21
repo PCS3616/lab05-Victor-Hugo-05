@@ -18,7 +18,7 @@ VAL    K =1
        SB VAL
        MM N
        JP /202
-       RS /200
+       JP /004
 
 @ /400
 	LV /0001
